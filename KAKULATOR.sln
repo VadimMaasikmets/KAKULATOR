@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KAKULATOR", "KAKULATOR\KAKULATOR.pyproj", "{BAA28AE1-4120-4D82-82CB-2BA0871C6517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA28AE1-4120-4D82-82CB-2BA0871C6517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA28AE1-4120-4D82-82CB-2BA0871C6517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C2170A3-910D-4601-AF19-62AB90D5B5EC}
+	EndGlobalSection
+EndGlobal
